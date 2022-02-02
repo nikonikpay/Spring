@@ -1,0 +1,25 @@
+
+]
+-src/com/ali/thirdtry/HappyFortuneService.java,c\b\cb517d48d3fddbfcf8cff0a77ac3014b165f3323
+O
+src/com/ali/thirdtry/Coach.java,0\8\088df1341d3fa8f3aacedcfbb3caa69bf110ed5f
+D
+src/sport.properties,6\b\6b1cc211b999f6f341ae879653ad204b7f20c796
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+C
+spring-demo-one.iml,6\1\61d85a75d3059e05e9de8a177fbec962bb713ad5
+[
++src/com/ali/thirdtry/applicationContext.xml,4\6\46a90172e85873d679f9040b1e3af546be9b14b4
+W
+'src/com/ali/thirdtry/BaseballCoach.java,d\0\d08ca5a2e756289e4e54fc1de9591ff362313a82
+V
+&src/com/ali/thirdtry/CricketCoach.java,1\8\182999bcfa85f6690f74076a9d390424685df987
+X
+(src/com/ali/thirdtry/HelloSpringApp.java,3\4\3476aa37955e6bae9506b7d8911c1e88d8824243
+O
+src/com/ali/thirdtry/MyApp.java,8\b\8b7a589f87c7856b7dad128b3733ec989dbbcbc9
+T
+$src/com/ali/thirdtry/TrackCoach.java,c\c\cc7860582ba8302126baee386e8f0bd4fec5f339
+W
+'src/com/ali/thirdtry/SetterdemoApp.java,0\0\00793b79cf31a38d87a48b650a7c816e66514e85
